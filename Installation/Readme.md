@@ -13,7 +13,7 @@ installation/ 手动安装图文文档
 
 ###初识OpenStack
 
-* OpensSack fuel community现场演示
+* OpensSack fuel community安装
 * 从OpenStack官方站点获取架构信息并描述
 * 基本概念：Tenant、User和Role
 * 高级概念：Region、AZ、Cell、Host Aggregate
